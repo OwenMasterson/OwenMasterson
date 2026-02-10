@@ -7,6 +7,10 @@ Data Analyst
 * 🌍  I'm based in Oxford
 * ✉️  You can contact me at [owenmasterson04@yahoo.com](mailto:owenmasterson04@yahoo.com)
 * 👥  I'm looking to collaborate on Visualisation Projects
+* With a foundation built through an NVQ level 2 hairdressing and four years of hands-on retail experience I’ve developed strong people skills, adaptability, and a commitment to quality. Now, I’m channeling that same drive into the world of data—currently advancing my skills through an intensive 8‑week data analysis bootcamp that I began in December. I’m focused, motivated, and ready to transform raw information into meaningful insights.
+* Currently using : Python, Excel, Power BI and Tableau
+* Find me here:
+* https://www.linkedin.com/in/owen-masterson-3191903ab/
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a>
