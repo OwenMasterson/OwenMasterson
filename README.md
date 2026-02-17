@@ -9,6 +9,19 @@ Data Analyst
 * 👥  I'm looking to collaborate on Visualisation Projects
 * With a foundation built through an NVQ level 2 hairdressing and four years of hands-on retail experience I’ve developed strong people skills, adaptability, and a commitment to quality. Now, I’m channeling that same drive into the world of data—currently advancing my skills through an intensive 8‑week data analysis bootcamp that I began in December. I’m focused, motivated, and ready to transform raw information into meaningful insights.
 * Currently using : Python, Excel, Power BI and Tableau
+
+* # Career Goals
+* I’m aiming to build a career in data analysis with a focus on visualisation and insight communication.
+* I want to work in a role where I can combine technical skills with problem‑solving and collaboration.
+ 
+* # What I’m Learning Next
+
+SQL
+* Data storytelling
+* Dashboard design best practices
+* Statistical thinking
+* Portfolio building and documentation
+
 * Find me here:
 * https://www.linkedin.com/in/owen-masterson-3191903ab/
 * https://sites.google.com/view/owen-masterson/home?authuser=1
@@ -26,4 +39,3 @@ Data Analyst
 
 <a href="http://www.github.com/OwenMasterson/Data_Test"><img src="https://github-readme-stats.vercel.app/api?username=OwenMasterson/Data_Test&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="OwenMasterson/Data_Test's GitHub stats" /></a>
 
-### Completed Projects:
