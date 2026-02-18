@@ -16,7 +16,7 @@ Data Analyst
  
 * # What I’m Learning Next
 
-SQL
+* SQL
 * Data storytelling
 * Dashboard design best practices
 * Statistical thinking
